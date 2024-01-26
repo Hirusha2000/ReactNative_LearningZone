@@ -1,0 +1,14 @@
+{
+  "signUp": {
+    "en": "Sign Up",
+    "si": "ලියාපදිංචි වන්න"
+  },
+  "firstName": {
+    "en": "First Name",
+    "si": "මුල් නම"
+  },
+  "lastName": {
+    "en": "Last Name",
+    "si": "අවසන් නම"
+  }
+}
